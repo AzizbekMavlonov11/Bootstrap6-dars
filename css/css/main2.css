@@ -1,0 +1,87 @@
+.container{
+   margin-left: 300px;
+    width: 1200px;
+}
+.row{
+    position: relative;
+}
+.btn{
+    width: 143px;
+    height:35px ;
+    font-size: 14px;
+}
+img{
+    position: absolute;
+    left: 65px;
+    top: 10px;
+}
+.col-md-12 :nth-child(1){
+    width: 145px;
+    color: darkgray;
+    font-size: 10.5px;
+    text-align: left;
+    border-radius: 3px;
+}
+.col-md-12 :nth-child(2){
+    width: 145px;
+    color: darkgray;
+    background-color: whitesmoke;
+    border-radius: 3px;
+    text-align: left;
+    font-size: 10.5px;
+    border: 0.3px solid gray;
+}
+.col-md-12 :nth-child(3){
+    width: 145px;
+    color: black;
+    text-align: left;
+    background-color: whitesmoke;
+    border-radius: 3px;
+    font-size: 10.5px;
+    border: 0.3px solid gray;
+}
+.col-md-12 :nth-child(4){
+    width: 145px;
+    color: black;
+    text-align: left;
+    background-color: whitesmoke;
+    border-radius: 3px;
+    font-size: 10.5px;
+    border: 1px solid dodgerblue;
+}
+.col-md-11 :nth-child(1){
+    width: 145px;
+    color: black;
+    font-size: 10.5px;
+    text-align: left;
+    background-color: whitesmoke;
+    border-radius: 3px;
+    border: 1px solid #4dc54d;
+}
+.col-md-11 :nth-child(2){
+    width: 145px;
+    color: black;
+    font-size: 10.5px;
+    background-color: whitesmoke;
+    border-radius: 3px;
+    border: 1px solid red;
+    text-align: left;
+}
+.col-md-11 :nth-child(3){
+    width: 145px;
+    color: black;
+    font-size: 10.5px;
+    background-color: whitesmoke;
+    border-radius: 3px;
+    text-align: left;
+    border: 0.3px solid grey;
+}
+.col-md-11 :nth-child(4){
+    width: 145px;
+    color: black;
+    font-size: 10.5px;
+    background-color: whitesmoke;
+    border-radius: 3px;
+    border: 0.3px solid grey;
+    text-align: left;
+}
